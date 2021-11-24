@@ -3,7 +3,7 @@
 a1 = int(input("Digite o primeiro termo: "))
 razao = int(input("Digite a razão: "))
 
-cont = 1 
+cont = a1
 while cont <=5:
     razao = razao * a1
     cont = cont + 1
